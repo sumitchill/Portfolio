@@ -44,6 +44,7 @@ To view the website locally, follow these steps:
 - GitHub: [sumitchill](https://github.com/sumitchill)
 
 ## License
+[GNU LICENSE](LICENSE)
 
-Not added yet!
+ThankYou!
 
